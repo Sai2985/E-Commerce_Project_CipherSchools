@@ -1,0 +1,7 @@
+For this project, please install these to run my code in cmd:
+1 - npx create-react-app my-app (if node-modules were missing then use this command in cmd)
+2 - npm i bootstrap
+3 - npm i font-awesome
+4 - npm i react-router-dom
+5 - npm i redux react-redux
+Follow these steps to install in case of errors occured.
